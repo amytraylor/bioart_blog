@@ -4,3 +4,23 @@ title:  "3D printing"
 date:   2019-02-24 13:50:33 -0700
 categories: jekyll update
 ---
+
+I am working on creating physical controllers and other manipulatives
+for a virtual reality project.
+
+I created a rock like object out of clay because I wanted the object to have a 
+hand-made feel to it. I then scanned the object and 3D printed it in PLA.
+
+The result is an object for finger indentations for gripping and a pleasant lumpy
+texture like unsmooted clay. 
+
+The plan is to embed electronics inside the object to make the controller.
+
+https://drive.google.com/file/d/1q7A5-CscMwtvBdLwhT-VzfYF1wdko5PI/view?usp=sharing
+
+
+The second object is a prototype for a large scale controller that would be mounted on the wall or be
+installed in a table with electronic components inside.
+
+
+https://drive.google.com/file/d/1QJmUDuhHE25Uka0PES_9LskMuQRcHzdT/view?usp=sharing
