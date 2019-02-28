@@ -16,11 +16,11 @@ texture like unsmooted clay.
 
 The plan is to embed electronics inside the object to make the controller.
 
-https://drive.google.com/file/d/1q7A5-CscMwtvBdLwhT-VzfYF1wdko5PI/view?usp=sharing
+<https://drive.google.com/file/d/1q7A5-CscMwtvBdLwhT-VzfYF1wdko5PI/view?usp=sharing>
 
 
 The second object is a prototype for a large scale controller that would be mounted on the wall or be
 installed in a table with electronic components inside.
 
 
-https://drive.google.com/file/d/1QJmUDuhHE25Uka0PES_9LskMuQRcHzdT/view?usp=sharing
+<https://drive.google.com/file/d/1QJmUDuhHE25Uka0PES_9LskMuQRcHzdT/view?usp=sharing>
